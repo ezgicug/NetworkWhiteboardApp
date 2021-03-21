@@ -1,6 +1,6 @@
 ## Network Whiteboard Application
 
-The objective of the project is the implementation of the whiteboard application Java based object-oriented software design approach.
+The objective of the project is the implementation of the whiteboard application with Java.
 
 ## Use Case 
 
